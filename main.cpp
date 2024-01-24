@@ -1,4 +1,5 @@
-int main()
-{
-    return 1;
+#include <iostream>
+
+int main() {
+    return 2;
 }
